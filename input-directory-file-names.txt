@@ -1,0 +1,9 @@
+spark_app-1.5.4-7-SNAPSHOT-shaded-jar-with-dependencies.jar
+
+spark_app-1.5.4-9-SNAPSHOT-shaded-jar-with-dependencies.jar
+
+spark_app-1.4.7-7-SNAPSHOT-shaded-jar-with-dependencies.jar
+
+spark_app-1.5.5-3-SNAPSHOT-shaded-jar-with-dependencies.jar
+
+spark_app-1.5.5-1-SNAPSHOT-shaded-jar-with-dependencies.jar
